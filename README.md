@@ -14,6 +14,9 @@ You can click the Preview link to take a look at your changes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kaepee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaepee&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🪪 BadgeR Badges
+![postman](https://api.badgr.io/public/assertions/ttShonUiRe-AEFVlep5LqQ?identity__email=obedpksomuah%40gmail.com)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kaepee&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
