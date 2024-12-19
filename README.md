@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
+### Security Engineer 👷🏽‍♂️🔐
 📊 Building web2 and web3 fullstack applications focused on security 👮🏽‍♂️<br>👨🏽‍🔧 Ready to collaborate on fullstack web3 projects<br>💼 Currently on Smart Contract auditing and Web3 security 📄<br>🔄 Reverse Engineering of ARM applications 📌<br>💰 DeFi is the Future 😮‍💨<br>
 
 
